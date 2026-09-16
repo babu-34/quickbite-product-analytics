@@ -1,0 +1,301 @@
+restaurant_id,restaurant_name,city,cuisine,rating,delivery_time
+1,South Indian Kitchen 1,Hyderabad,South Indian,3.8,48
+2,Biryani Kitchen 2,Visakhapatnam,Biryani,3.9,44
+3,North Indian Kitchen 3,Bengaluru,North Indian,3.4,59
+4,Desserts Kitchen 4,Chennai,Desserts,4.1,40
+5,Pizza Kitchen 5,Pune,Pizza,3.8,28
+6,Fast Food Kitchen 6,Mumbai,Fast Food,4.7,39
+7,North Indian Kitchen 7,Delhi,North Indian,3.6,55
+8,Pizza Kitchen 8,Hyderabad,Pizza,3.9,31
+9,Cafe Kitchen 9,Visakhapatnam,Cafe,3.5,58
+10,Indian Kitchen 10,Bengaluru,Indian,4.9,30
+11,North Indian Kitchen 11,Chennai,North Indian,4.9,46
+12,Desserts Kitchen 12,Pune,Desserts,4.2,22
+13,Pizza Kitchen 13,Mumbai,Pizza,4.3,26
+14,Fast Food Kitchen 14,Delhi,Fast Food,4.9,36
+15,South Indian Kitchen 15,Hyderabad,South Indian,3.6,30
+16,Desserts Kitchen 16,Visakhapatnam,Desserts,4.4,34
+17,Healthy Kitchen 17,Bengaluru,Healthy,3.9,54
+18,Healthy Kitchen 18,Chennai,Healthy,3.6,35
+19,Cafe Kitchen 19,Pune,Cafe,3.4,32
+20,Healthy Kitchen 20,Mumbai,Healthy,4.3,58
+21,Healthy Kitchen 21,Delhi,Healthy,3.9,29
+22,Fast Food Kitchen 22,Hyderabad,Fast Food,4.3,36
+23,Pizza Kitchen 23,Visakhapatnam,Pizza,4.3,46
+24,North Indian Kitchen 24,Bengaluru,North Indian,4.2,47
+25,South Indian Kitchen 25,Chennai,South Indian,3.3,43
+26,Pizza Kitchen 26,Pune,Pizza,3.8,37
+27,Healthy Kitchen 27,Mumbai,Healthy,3.3,39
+28,Chinese Kitchen 28,Delhi,Chinese,4.0,25
+29,Biryani Kitchen 29,Hyderabad,Biryani,4.6,57
+30,North Indian Kitchen 30,Visakhapatnam,North Indian,3.9,50
+31,Chinese Kitchen 31,Bengaluru,Chinese,4.3,20
+32,Pizza Kitchen 32,Chennai,Pizza,3.3,24
+33,North Indian Kitchen 33,Pune,North Indian,4.6,46
+34,Biryani Kitchen 34,Mumbai,Biryani,4.7,60
+35,Indian Kitchen 35,Delhi,Indian,4.2,47
+36,South Indian Kitchen 36,Hyderabad,South Indian,3.7,22
+37,Cafe Kitchen 37,Visakhapatnam,Cafe,4.7,25
+38,Indian Kitchen 38,Bengaluru,Indian,3.3,26
+39,Pizza Kitchen 39,Chennai,Pizza,3.9,57
+40,Fast Food Kitchen 40,Pune,Fast Food,3.7,39
+41,Chinese Kitchen 41,Mumbai,Chinese,3.3,26
+42,Desserts Kitchen 42,Delhi,Desserts,4.7,37
+43,Pizza Kitchen 43,Hyderabad,Pizza,3.4,51
+44,Biryani Kitchen 44,Visakhapatnam,Biryani,4.7,30
+45,Indian Kitchen 45,Bengaluru,Indian,4.7,40
+46,North Indian Kitchen 46,Chennai,North Indian,4.6,28
+47,Fast Food Kitchen 47,Pune,Fast Food,4.3,55
+48,Cafe Kitchen 48,Mumbai,Cafe,4.1,49
+49,Chinese Kitchen 49,Delhi,Chinese,3.3,32
+50,North Indian Kitchen 50,Hyderabad,North Indian,3.4,45
+51,Fast Food Kitchen 51,Visakhapatnam,Fast Food,4.6,45
+52,Cafe Kitchen 52,Bengaluru,Cafe,4.7,22
+53,Desserts Kitchen 53,Chennai,Desserts,3.3,54
+54,Pizza Kitchen 54,Pune,Pizza,4.5,24
+55,South Indian Kitchen 55,Mumbai,South Indian,4.6,25
+56,Chinese Kitchen 56,Delhi,Chinese,4.3,36
+57,Indian Kitchen 57,Hyderabad,Indian,4.3,42
+58,Indian Kitchen 58,Visakhapatnam,Indian,4.8,46
+59,Biryani Kitchen 59,Bengaluru,Biryani,3.5,49
+60,Pizza Kitchen 60,Chennai,Pizza,4.7,36
+61,Chinese Kitchen 61,Pune,Chinese,3.7,56
+62,Biryani Kitchen 62,Mumbai,Biryani,4.5,46
+63,Fast Food Kitchen 63,Delhi,Fast Food,3.4,47
+64,Fast Food Kitchen 64,Hyderabad,Fast Food,3.3,40
+65,Chinese Kitchen 65,Visakhapatnam,Chinese,3.7,51
+66,Biryani Kitchen 66,Bengaluru,Biryani,3.3,46
+67,Indian Kitchen 67,Chennai,Indian,3.5,43
+68,Cafe Kitchen 68,Pune,Cafe,4.7,32
+69,Healthy Kitchen 69,Mumbai,Healthy,4.1,51
+70,Fast Food Kitchen 70,Delhi,Fast Food,3.8,60
+71,Healthy Kitchen 71,Hyderabad,Healthy,4.0,40
+72,Cafe Kitchen 72,Visakhapatnam,Cafe,4.8,31
+73,Indian Kitchen 73,Bengaluru,Indian,3.6,24
+74,Fast Food Kitchen 74,Chennai,Fast Food,4.7,30
+75,Healthy Kitchen 75,Pune,Healthy,4.5,30
+76,Chinese Kitchen 76,Mumbai,Chinese,3.3,26
+77,Pizza Kitchen 77,Delhi,Pizza,4.8,37
+78,Chinese Kitchen 78,Hyderabad,Chinese,3.2,35
+79,North Indian Kitchen 79,Visakhapatnam,North Indian,4.2,51
+80,Desserts Kitchen 80,Bengaluru,Desserts,4.4,38
+81,Biryani Kitchen 81,Chennai,Biryani,3.6,29
+82,Cafe Kitchen 82,Pune,Cafe,4.4,42
+83,Desserts Kitchen 83,Mumbai,Desserts,4.1,51
+84,Biryani Kitchen 84,Delhi,Biryani,4.7,23
+85,Biryani Kitchen 85,Hyderabad,Biryani,4.9,50
+86,Desserts Kitchen 86,Visakhapatnam,Desserts,3.4,60
+87,Pizza Kitchen 87,Bengaluru,Pizza,4.4,59
+88,Desserts Kitchen 88,Chennai,Desserts,3.5,52
+89,Chinese Kitchen 89,Pune,Chinese,4.3,38
+90,South Indian Kitchen 90,Mumbai,South Indian,4.2,20
+91,Pizza Kitchen 91,Delhi,Pizza,4.0,24
+92,Indian Kitchen 92,Hyderabad,Indian,3.3,56
+93,Desserts Kitchen 93,Visakhapatnam,Desserts,4.2,38
+94,North Indian Kitchen 94,Bengaluru,North Indian,4.2,30
+95,Cafe Kitchen 95,Chennai,Cafe,4.2,24
+96,Pizza Kitchen 96,Pune,Pizza,4.3,28
+97,South Indian Kitchen 97,Mumbai,South Indian,3.4,28
+98,Pizza Kitchen 98,Delhi,Pizza,3.8,42
+99,Cafe Kitchen 99,Hyderabad,Cafe,4.0,23
+100,North Indian Kitchen 100,Visakhapatnam,North Indian,3.7,57
+101,South Indian Kitchen 101,Bengaluru,South Indian,3.2,43
+102,Desserts Kitchen 102,Chennai,Desserts,4.2,56
+103,South Indian Kitchen 103,Pune,South Indian,3.8,53
+104,Biryani Kitchen 104,Mumbai,Biryani,3.6,42
+105,Pizza Kitchen 105,Delhi,Pizza,3.8,27
+106,North Indian Kitchen 106,Hyderabad,North Indian,4.9,34
+107,Biryani Kitchen 107,Visakhapatnam,Biryani,3.5,36
+108,Biryani Kitchen 108,Bengaluru,Biryani,3.3,49
+109,Indian Kitchen 109,Chennai,Indian,4.1,21
+110,Pizza Kitchen 110,Pune,Pizza,4.7,33
+111,South Indian Kitchen 111,Mumbai,South Indian,4.8,35
+112,Cafe Kitchen 112,Delhi,Cafe,3.8,38
+113,Chinese Kitchen 113,Hyderabad,Chinese,3.7,48
+114,Healthy Kitchen 114,Visakhapatnam,Healthy,4.5,37
+115,Fast Food Kitchen 115,Bengaluru,Fast Food,4.3,50
+116,Chinese Kitchen 116,Chennai,Chinese,4.9,27
+117,North Indian Kitchen 117,Pune,North Indian,4.1,24
+118,South Indian Kitchen 118,Mumbai,South Indian,4.6,31
+119,Pizza Kitchen 119,Delhi,Pizza,3.7,29
+120,South Indian Kitchen 120,Hyderabad,South Indian,4.9,52
+121,South Indian Kitchen 121,Visakhapatnam,South Indian,3.7,36
+122,Desserts Kitchen 122,Bengaluru,Desserts,4.9,52
+123,Cafe Kitchen 123,Chennai,Cafe,3.6,49
+124,Desserts Kitchen 124,Pune,Desserts,3.3,23
+125,Fast Food Kitchen 125,Mumbai,Fast Food,4.7,48
+126,Indian Kitchen 126,Delhi,Indian,4.3,21
+127,Pizza Kitchen 127,Hyderabad,Pizza,4.8,44
+128,Chinese Kitchen 128,Visakhapatnam,Chinese,3.5,45
+129,North Indian Kitchen 129,Bengaluru,North Indian,4.8,32
+130,North Indian Kitchen 130,Chennai,North Indian,3.9,48
+131,North Indian Kitchen 131,Pune,North Indian,3.2,51
+132,Cafe Kitchen 132,Mumbai,Cafe,4.1,36
+133,Desserts Kitchen 133,Delhi,Desserts,3.3,52
+134,Cafe Kitchen 134,Hyderabad,Cafe,4.9,35
+135,Desserts Kitchen 135,Visakhapatnam,Desserts,4.2,53
+136,Desserts Kitchen 136,Bengaluru,Desserts,4.0,41
+137,North Indian Kitchen 137,Chennai,North Indian,4.4,32
+138,Cafe Kitchen 138,Pune,Cafe,4.2,47
+139,Chinese Kitchen 139,Mumbai,Chinese,3.9,26
+140,Healthy Kitchen 140,Delhi,Healthy,3.7,37
+141,Biryani Kitchen 141,Hyderabad,Biryani,3.4,57
+142,Healthy Kitchen 142,Visakhapatnam,Healthy,4.3,52
+143,Fast Food Kitchen 143,Bengaluru,Fast Food,4.0,56
+144,North Indian Kitchen 144,Chennai,North Indian,4.1,45
+145,North Indian Kitchen 145,Pune,North Indian,4.5,21
+146,South Indian Kitchen 146,Mumbai,South Indian,3.9,42
+147,South Indian Kitchen 147,Delhi,South Indian,3.7,56
+148,Fast Food Kitchen 148,Hyderabad,Fast Food,3.5,38
+149,Desserts Kitchen 149,Visakhapatnam,Desserts,4.6,54
+150,Desserts Kitchen 150,Bengaluru,Desserts,4.8,43
+151,Fast Food Kitchen 151,Chennai,Fast Food,4.4,32
+152,Chinese Kitchen 152,Pune,Chinese,3.3,48
+153,Cafe Kitchen 153,Mumbai,Cafe,4.8,34
+154,South Indian Kitchen 154,Delhi,South Indian,4.5,33
+155,Biryani Kitchen 155,Hyderabad,Biryani,4.6,41
+156,Pizza Kitchen 156,Visakhapatnam,Pizza,4.7,59
+157,Pizza Kitchen 157,Bengaluru,Pizza,4.5,49
+158,Pizza Kitchen 158,Chennai,Pizza,3.8,23
+159,North Indian Kitchen 159,Pune,North Indian,3.4,21
+160,Indian Kitchen 160,Mumbai,Indian,4.5,30
+161,Desserts Kitchen 161,Delhi,Desserts,4.1,39
+162,Cafe Kitchen 162,Hyderabad,Cafe,4.5,42
+163,Healthy Kitchen 163,Visakhapatnam,Healthy,4.3,49
+164,Indian Kitchen 164,Bengaluru,Indian,4.5,42
+165,South Indian Kitchen 165,Chennai,South Indian,4.3,40
+166,Chinese Kitchen 166,Pune,Chinese,4.1,23
+167,Pizza Kitchen 167,Mumbai,Pizza,3.5,59
+168,Indian Kitchen 168,Delhi,Indian,3.8,33
+169,Desserts Kitchen 169,Hyderabad,Desserts,4.6,44
+170,Cafe Kitchen 170,Visakhapatnam,Cafe,3.6,55
+171,Desserts Kitchen 171,Bengaluru,Desserts,4.3,30
+172,Desserts Kitchen 172,Chennai,Desserts,3.7,44
+173,North Indian Kitchen 173,Pune,North Indian,3.5,52
+174,Cafe Kitchen 174,Mumbai,Cafe,4.0,32
+175,South Indian Kitchen 175,Delhi,South Indian,3.3,42
+176,North Indian Kitchen 176,Hyderabad,North Indian,4.3,33
+177,Healthy Kitchen 177,Visakhapatnam,Healthy,4.0,21
+178,Desserts Kitchen 178,Bengaluru,Desserts,3.8,58
+179,Chinese Kitchen 179,Chennai,Chinese,4.4,39
+180,Biryani Kitchen 180,Pune,Biryani,3.6,58
+181,Biryani Kitchen 181,Mumbai,Biryani,4.6,27
+182,Cafe Kitchen 182,Delhi,Cafe,4.4,44
+183,Biryani Kitchen 183,Hyderabad,Biryani,3.7,56
+184,Pizza Kitchen 184,Visakhapatnam,Pizza,3.5,36
+185,Chinese Kitchen 185,Bengaluru,Chinese,4.1,20
+186,Cafe Kitchen 186,Chennai,Cafe,4.8,29
+187,Desserts Kitchen 187,Pune,Desserts,4.0,24
+188,Fast Food Kitchen 188,Mumbai,Fast Food,4.0,34
+189,Pizza Kitchen 189,Delhi,Pizza,4.1,20
+190,Desserts Kitchen 190,Hyderabad,Desserts,3.3,27
+191,Healthy Kitchen 191,Visakhapatnam,Healthy,3.5,25
+192,South Indian Kitchen 192,Bengaluru,South Indian,4.5,32
+193,South Indian Kitchen 193,Chennai,South Indian,4.3,47
+194,Desserts Kitchen 194,Pune,Desserts,3.4,21
+195,Desserts Kitchen 195,Mumbai,Desserts,3.8,26
+196,Biryani Kitchen 196,Delhi,Biryani,3.7,43
+197,Pizza Kitchen 197,Hyderabad,Pizza,3.9,24
+198,Cafe Kitchen 198,Visakhapatnam,Cafe,3.9,45
+199,Desserts Kitchen 199,Bengaluru,Desserts,4.4,20
+200,South Indian Kitchen 200,Chennai,South Indian,4.4,23
+201,Biryani Kitchen 201,Pune,Biryani,3.6,20
+202,South Indian Kitchen 202,Mumbai,South Indian,3.2,31
+203,Pizza Kitchen 203,Delhi,Pizza,4.3,41
+204,Desserts Kitchen 204,Hyderabad,Desserts,3.8,39
+205,Desserts Kitchen 205,Visakhapatnam,Desserts,3.8,45
+206,Fast Food Kitchen 206,Bengaluru,Fast Food,4.5,32
+207,North Indian Kitchen 207,Chennai,North Indian,4.2,50
+208,Desserts Kitchen 208,Pune,Desserts,4.9,25
+209,Indian Kitchen 209,Mumbai,Indian,3.8,47
+210,Healthy Kitchen 210,Delhi,Healthy,3.8,21
+211,North Indian Kitchen 211,Hyderabad,North Indian,3.6,23
+212,Cafe Kitchen 212,Visakhapatnam,Cafe,4.5,47
+213,North Indian Kitchen 213,Bengaluru,North Indian,3.4,51
+214,Indian Kitchen 214,Chennai,Indian,4.7,26
+215,Pizza Kitchen 215,Pune,Pizza,4.8,41
+216,Chinese Kitchen 216,Mumbai,Chinese,4.6,49
+217,Chinese Kitchen 217,Delhi,Chinese,4.6,20
+218,Fast Food Kitchen 218,Hyderabad,Fast Food,3.5,38
+219,North Indian Kitchen 219,Visakhapatnam,North Indian,4.1,20
+220,Desserts Kitchen 220,Bengaluru,Desserts,4.4,24
+221,Pizza Kitchen 221,Chennai,Pizza,3.5,32
+222,Indian Kitchen 222,Pune,Indian,4.8,44
+223,South Indian Kitchen 223,Mumbai,South Indian,3.8,23
+224,Desserts Kitchen 224,Delhi,Desserts,3.4,23
+225,Pizza Kitchen 225,Hyderabad,Pizza,3.9,45
+226,Cafe Kitchen 226,Visakhapatnam,Cafe,3.3,47
+227,Desserts Kitchen 227,Bengaluru,Desserts,3.3,56
+228,Indian Kitchen 228,Chennai,Indian,3.7,27
+229,Desserts Kitchen 229,Pune,Desserts,4.3,56
+230,Desserts Kitchen 230,Mumbai,Desserts,4.0,47
+231,Chinese Kitchen 231,Delhi,Chinese,3.4,56
+232,Biryani Kitchen 232,Hyderabad,Biryani,3.9,22
+233,Cafe Kitchen 233,Visakhapatnam,Cafe,4.8,44
+234,Indian Kitchen 234,Bengaluru,Indian,4.1,37
+235,Cafe Kitchen 235,Chennai,Cafe,3.9,24
+236,North Indian Kitchen 236,Pune,North Indian,3.5,52
+237,Chinese Kitchen 237,Mumbai,Chinese,3.2,51
+238,Healthy Kitchen 238,Delhi,Healthy,4.1,50
+239,Desserts Kitchen 239,Hyderabad,Desserts,4.6,54
+240,Healthy Kitchen 240,Visakhapatnam,Healthy,4.7,29
+241,Biryani Kitchen 241,Bengaluru,Biryani,4.5,49
+242,Fast Food Kitchen 242,Chennai,Fast Food,4.3,53
+243,Pizza Kitchen 243,Pune,Pizza,4.1,47
+244,North Indian Kitchen 244,Mumbai,North Indian,4.0,36
+245,Healthy Kitchen 245,Delhi,Healthy,3.5,34
+246,Indian Kitchen 246,Hyderabad,Indian,4.7,22
+247,Cafe Kitchen 247,Visakhapatnam,Cafe,4.4,24
+248,Fast Food Kitchen 248,Bengaluru,Fast Food,3.6,41
+249,Cafe Kitchen 249,Chennai,Cafe,4.9,21
+250,South Indian Kitchen 250,Pune,South Indian,4.6,32
+251,Chinese Kitchen 251,Mumbai,Chinese,3.9,29
+252,South Indian Kitchen 252,Delhi,South Indian,3.3,40
+253,Pizza Kitchen 253,Hyderabad,Pizza,4.0,53
+254,South Indian Kitchen 254,Visakhapatnam,South Indian,3.7,54
+255,North Indian Kitchen 255,Bengaluru,North Indian,4.7,31
+256,Biryani Kitchen 256,Chennai,Biryani,4.5,45
+257,Biryani Kitchen 257,Pune,Biryani,4.8,27
+258,Chinese Kitchen 258,Mumbai,Chinese,4.0,46
+259,Fast Food Kitchen 259,Delhi,Fast Food,3.3,37
+260,North Indian Kitchen 260,Hyderabad,North Indian,4.3,33
+261,South Indian Kitchen 261,Visakhapatnam,South Indian,3.8,56
+262,Pizza Kitchen 262,Bengaluru,Pizza,4.3,50
+263,Healthy Kitchen 263,Chennai,Healthy,3.3,34
+264,South Indian Kitchen 264,Pune,South Indian,4.7,59
+265,South Indian Kitchen 265,Mumbai,South Indian,3.8,52
+266,South Indian Kitchen 266,Delhi,South Indian,4.4,44
+267,Cafe Kitchen 267,Hyderabad,Cafe,4.6,21
+268,Biryani Kitchen 268,Visakhapatnam,Biryani,4.7,58
+269,Indian Kitchen 269,Bengaluru,Indian,3.7,39
+270,Biryani Kitchen 270,Chennai,Biryani,4.2,23
+271,Fast Food Kitchen 271,Pune,Fast Food,4.4,54
+272,South Indian Kitchen 272,Mumbai,South Indian,3.8,58
+273,Chinese Kitchen 273,Delhi,Chinese,4.2,29
+274,Desserts Kitchen 274,Hyderabad,Desserts,4.2,25
+275,South Indian Kitchen 275,Visakhapatnam,South Indian,4.3,30
+276,Pizza Kitchen 276,Bengaluru,Pizza,4.5,54
+277,Cafe Kitchen 277,Chennai,Cafe,3.3,59
+278,Healthy Kitchen 278,Pune,Healthy,4.6,47
+279,Indian Kitchen 279,Mumbai,Indian,4.3,53
+280,South Indian Kitchen 280,Delhi,South Indian,4.7,38
+281,Biryani Kitchen 281,Hyderabad,Biryani,4.7,47
+282,Pizza Kitchen 282,Visakhapatnam,Pizza,4.7,44
+283,South Indian Kitchen 283,Bengaluru,South Indian,3.4,49
+284,North Indian Kitchen 284,Chennai,North Indian,4.6,37
+285,North Indian Kitchen 285,Pune,North Indian,4.8,46
+286,Desserts Kitchen 286,Mumbai,Desserts,3.3,21
+287,Fast Food Kitchen 287,Delhi,Fast Food,4.5,42
+288,Healthy Kitchen 288,Hyderabad,Healthy,3.5,20
+289,Biryani Kitchen 289,Visakhapatnam,Biryani,4.3,50
+290,Desserts Kitchen 290,Bengaluru,Desserts,4.4,57
+291,Fast Food Kitchen 291,Chennai,Fast Food,4.4,31
+292,Biryani Kitchen 292,Pune,Biryani,4.9,22
+293,Chinese Kitchen 293,Mumbai,Chinese,3.3,25
+294,Fast Food Kitchen 294,Delhi,Fast Food,3.3,53
+295,Pizza Kitchen 295,Hyderabad,Pizza,3.4,42
+296,Cafe Kitchen 296,Visakhapatnam,Cafe,4.1,47
+297,North Indian Kitchen 297,Bengaluru,North Indian,4.5,39
+298,Cafe Kitchen 298,Chennai,Cafe,3.7,49
+299,Pizza Kitchen 299,Pune,Pizza,3.6,26
+300,Cafe Kitchen 300,Mumbai,Cafe,3.7,42
