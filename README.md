@@ -135,8 +135,6 @@ This project uses a synthetic dataset created for portfolio and learning purpose
 ## Outcome
 
 This project demonstrates an end-to-end workflow:
-
-```text
 Data
  ↓
 SQL Analysis
@@ -154,4 +152,7 @@ PRD
 Experiment Design
  ↓
 Business Impact
-```
+## 📊 Dashboard Preview
+![QuickBite Power BI Dashboard](images/QuickBite_Dashboard.png)
+
+**Download Interactive File:** [QuickBite_Product_Analytics.pbix](QuickBite_Product_Analytics.pbix)
